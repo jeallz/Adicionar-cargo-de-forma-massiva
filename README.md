@@ -1,6 +1,14 @@
+<div align="center">
+
 # Utilização do Sistema // System Usage
+  
+</div>
 
 # EN 🇺🇸
+
+## About
+
+Automatically adds a role from your Discord server to all its members.
 
 ## installation of the premises
 
